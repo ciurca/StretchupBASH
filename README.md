@@ -11,7 +11,7 @@ The file in this repo are:
 
 If you want to use make it a shortcut on your desktop you can add this **.desktop** file in your /usr/share/applications (to make it globally accessible)
 
-```
+```desktop
 [Desktop Entry]
 Version=1.0
 Type=Application
