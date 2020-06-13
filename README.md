@@ -26,3 +26,7 @@ Terminal=true
 ```
 
 This .desktop file automatically opens the terminal so you can close the stretch program if you open it by mistake.
+
+## To Dos
+
+- [ ] Make the program run until the user closes it
