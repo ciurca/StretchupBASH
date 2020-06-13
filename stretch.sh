@@ -1,7 +1,7 @@
 #!/bin/bash
-Icon="/home/radu/BashScripts/StretchBASH/stretchicon.png"
-Icup="/home/radu/BashScripts/StretchBASH/icup.png"
-ProgramON="/home/radu/BashScripts/StretchBASH/programon.png"
+Icon="/PATH/TO/stretchicon.png"
+Icup="/PATH/TO/icup.png"
+ProgramON="/PATH/TO/programon.png"
 echo "Started program just now! Be ready to stretch in ~30m"
 notify-send -i $ProgramON "Started program just now!" \ "Be ready to stretch in ~30m"
 sleep 30m
